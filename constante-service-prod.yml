@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 constante-service:
-  message: "Fichier de configuration du service constante-service en production"
+  message: "Fichier de configuration du service constante-service en production hebergé sur github"
   contactDetails:
     name: "RAYAISSE Patrick Renaud Wendyam"
     email: "wendyam.rayaisse@gmail.com"
